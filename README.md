@@ -1,5 +1,4 @@
-# zhoyi111
-My personal repository
+# zhoyi11
 ## About Me
 I am a current Junior studying at the *University of North Carolina at Chapel Hill* majoring in *Statistics* and interested in *Computer Science* major.
 I’m interested and actively perusing a career as a Data analyst or Software Engineer.
